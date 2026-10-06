@@ -1,0 +1,52 @@
+.recipes{
+    box-sizing: border-box;
+    margin: 20px;
+    padding: 20px;
+    border: 5px solid green;
+    background-color: greenyellow;
+
+}
+
+.box{
+    outline: 2px solid red;
+    background-color: yellow;
+    font-weight: bold;
+}
+
+
+.home  {
+    outline: 2px solid cyan;
+    font-weight: bold;
+    background-color: blueviolet;
+    color: white;
+}
+
+.highlight{
+    background-color: aqua;
+}
+
+ul{
+    box-sizing: border-box;
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+    border: 5px solid purple;
+    background-color: lightpink;
+}
+
+ol{
+    box-sizing: border-box;
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+    border: 5px solid cyan;
+    background-color: lightblue;
+}
+
+p{
+    outline: 2px solid gold;
+    padding: 20px;
+    margin: 20px;
+    width: 800px;
+    background-color: yellow;
+}
